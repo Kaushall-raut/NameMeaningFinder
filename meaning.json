@@ -1,0 +1,503 @@
+[
+  {
+    "name": "kaushal",
+    "meaning": "Clever; Skilled; Welfare; Wealth; Happiness"
+  },
+  {
+    "name": "mansi",
+    "meaning": "Plucked flower"
+  },
+  {
+    "name": "sarthak",
+    "meaning": "Well done, Having meaning, purpose"
+  },
+  {
+    "name": "israr",
+    "meaning": "Insist, Never gives up"
+  },
+  {
+    "name": "arfat",
+    "meaning": "Mount Of Recognition"
+  },
+  {
+    "name":"aayush",
+    "meaning":"The one with long life"
+  },
+  {
+    "name":"arjun",
+    "meaning":"A Pandava prince"
+  },
+  {
+    "name":"anmol",
+    "meaning":"Priceless, invaluable, precious"
+  },
+  {
+    "name":"ansh",
+    "meaning":"Portion"
+  },
+  {
+    "name":"ayaan",
+    "meaning":"Someone who is religiously inclined, Gift of God"
+  },
+  {
+    "name":"balvan",
+    "meaning":"Strong person"
+  },
+  {
+    "name":"daksh",
+    "meaning":"Capable, son of Lord Brahma, fire, gold, talented, excellent, vigorous talented"
+  },
+  {
+    "name":"devansh",
+    "meaning":"Eternal part of God, Demigod "
+  },
+  {
+    "name":"gautam",
+    "meaning":"Lord Buddha, remover of darkness, full of life, one of the seven rishis, one who enlightens"
+  },
+  {
+    "name":"gopal",
+    "meaning":"Cowherd"
+  },
+  {
+    "name":"hardik",
+    "meaning":"From the heart"
+  },
+  {
+    "name":"jagdish",
+    "meaning":"Lord of the universe"
+  },
+  {
+    "name":"karan",
+    "meaning":"Talented, intelligent, ear, document, another name for brahman or the supreme spirit"
+  },
+  {
+    "name":"krishna",
+    "meaning":"One of the most popular gods, the eighth and most important avatar or incarnation of Vishnu"
+  },
+  {
+    "name":"laksh",
+    "meaning":"Aim, target, goal  "
+  },
+  {
+    "name":"lucky",
+    "meaning":"Fortunate"
+  },
+  {
+    "name":"madhav",
+    "meaning":"Descendant of Madhu"
+  },
+  {
+    "name":"manthan",
+    "meaning":"Reflection through study"
+  },
+  {
+    "name":"nitesh",
+    "meaning":"Heartbeat of earth"
+  },
+  {
+    "name":"pranav",
+    "meaning":"Praise, salutation"
+  },
+  {
+    "name":"rachit",
+    "meaning":"Prepared, written"
+  },
+  {
+    "name":"raghav",
+    "meaning":"Descendant of Raghu"
+  },
+  {
+    "name":"ranbir",
+    "meaning":"The brave warrior"
+  },
+  {
+    "name":"ranveer",
+    "meaning":"Hero of the battle"
+  },
+  {
+    "name":"rishi",
+    "meaning":"Sage"
+  },
+  {
+    "name":"robert",
+    "meaning":"Bright fame"
+  },
+  {
+    "name":"rohan",
+    "meaning":"Ascending, blossom, another name for Vishnu, rising"
+  },
+  {
+    "name":"rudra",
+    "meaning":"One of the names of Shiva, storm"
+  },
+  {
+    "name":"samarth",
+    "meaning":"Adequate"
+  },
+  {
+    "name":"samesh",
+    "meaning":"Lord of equality"
+  },
+  {
+    "name":"siddharth",
+    "meaning":"One who has accomplished a goal"
+  },
+  {
+    "name":"teerth",
+    "meaning":"Holy place"
+  },
+  {
+    "name":"abhinav",
+    "meaning":"Innovative, creative"
+  },
+  {
+    "name":"ashwin",
+    "meaning":"Light, A Hindu month"
+  },
+  {
+    "name":"bhavesh",
+    "meaning":"Lord of the universe"
+  },
+  {
+    "name":"charan",
+    "meaning":"Feet, Lord Vishnu's feet"
+  },
+  {
+    "name":"girish",
+    "meaning":"Lord of the mountains, Shiva"
+  },
+  {
+    "name":"hansaraj",
+    "meaning":"King of a swan"
+  },
+  {
+    "name":"mohit",
+    "meaning":"Ensnarled by beauty, attractive"
+  },
+  {
+    "name":"prasad",
+    "meaning":"Offering to god, blessing"
+  },
+  {
+    "name":"yash",
+    "meaning":"Fame, success"
+  },
+  {
+    "name":"harish",
+    "meaning":"Lord Shiva; Lord of monkeys (Hanuman)"
+  },
+  {
+    "name":"kishore",
+    "meaning":"Young; Youthful"
+  },
+  {
+    "name":"nitin",
+    "meaning":"Master of the right path; Guiding star"
+  },
+  {
+    "name":"madhu",
+    "meaning":"Sweet; Honey"
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  },
+  {
+    "name":"",
+    "meaning":""
+  }
+
+]
